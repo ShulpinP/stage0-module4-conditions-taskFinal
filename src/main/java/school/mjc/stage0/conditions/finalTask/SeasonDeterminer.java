@@ -4,7 +4,7 @@ public class SeasonDeterminer {
     public void tellTheSeason(int monthNumber) {
         switch (monthNumber) {
             default:
-                System.out.println("Wrong month number!");
+                System.out.println("Wrong month number");
                 break;
             case (1):
             case (2):
